@@ -14,7 +14,7 @@ Graduado em Sistemas de Informação, gosto de desafios e resolver problemas atr
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Vou atualizar o GitHub e adoraria receber feedbacks.
-- 📫 https://www.linkedin.com/in/hernandes-andrade-a37a39115/.
+- 📫 https://www.linkedin.com/in/hernandes-andrade-a37a39115/
 
 <!--
 - 😄 Pronouns: ...
