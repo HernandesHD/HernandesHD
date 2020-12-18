@@ -9,7 +9,6 @@ Graduado em Sistemas de Informação, gosto de desafios e resolver problemas atr
 **Here are some ideas to get you started:
 -->
 
-- 🔭 Atualmente em busca de recoloção.
 - 🌱 Estudando Java (sempre) e Angular.
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ... -->
