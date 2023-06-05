@@ -12,6 +12,11 @@ public class Bio extends SoftwareDeveloper {
     private String location = "Cabo Frio, RJ - Brazil";
 }
 
+public class Graduate extends SoftwareDeveloper {
+    private String Bachelor = "Graduated in Information Systems";
+    private String Postgraduate = "Architecture and Development in Java";
+}
+
 public class Skills extends SoftwareDeveloper {
     private String[] languages = {"Java", "PHP"};
     private String[] databases = {"MySQL", "CouchDB", "PostgreSQL"};
