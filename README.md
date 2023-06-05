@@ -1,3 +1,27 @@
+<p align="center">
+  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+</p>
+
+```java
+import SoftwareDeveloper from 'thompsonemerson';
+
+public class Bio extends SoftwareDeveloper {
+    private String name = "Hernandes Andrade";
+    private String title = "Software Developer";
+    private String company = "Tamboro Educacional | Remote";
+    private String location = "Cabo Frio, RJ - Brazil";
+}
+
+public class Skills extends SoftwareDeveloper {
+    private String[] languages = {"Java", "PHP"};
+    private String[] databases = {"MySQL", "CouchDB", "PostgreSQL"};
+    private String[] frameworks = {"Spring", "Spring Boot", "Angular"};
+}
+```
+----
+
+Last Edited on: 05/06/2023
+
 ### Olá, sejam muito bem vindos ao meu GitHub 👋
 
 <!--
