@@ -3,7 +3,7 @@
 </p>
 
 ```java
-import SoftwareDeveloper from 'thompsonemerson';
+import br.com.hernandesandrade;
 
 public class Bio extends SoftwareDeveloper {
     private String name = "Hernandes Andrade";
