@@ -13,8 +13,8 @@ public class Bio extends SoftwareDeveloper {
 }
 
 public class Graduate extends SoftwareDeveloper {
-    private String Bachelor = "Graduated in Information Systems";
-    private String Postgraduate = "Architecture and Development in Java";
+    private String bachelor = "Graduated in Information Systems";
+    private String postgraduate = "Architecture and Development in Java";
 }
 
 public class Skills extends SoftwareDeveloper {
